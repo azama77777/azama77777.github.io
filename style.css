@@ -1,24 +1,26 @@
 .navigation{
-    float: right;
+    float: left;
     height: 100%;
 }
 
 .navigation a{
-    height: 100%;
-    display: table;
-    float: left;
-    padding: 0px 20px;
+    height: 5%;
+    display: button;
+    float: right;
+    padding: 0px 25px;
     background-color: #101010;
 }
 
 .navigation a li{
     vertical-align: middle;
-    display: table-cell;
+    display: table;
     font-size: 20px;
     color: white;
 }
 
 .navigation a:hover{
-    background-color: gray;
+    background-color: green;
     color: #101010;
 }
+
+
