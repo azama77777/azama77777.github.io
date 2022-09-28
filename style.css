@@ -1,4 +1,4 @@
-/* MAIN STYLE */
+
 
 @font-face {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -28,9 +28,7 @@ a.active {
     color: rgb(252, 250, 136);
 }
 
-/* END OF MAIN STYLE */
-/* ------------------------- */
-/* HEADER BLOCK */
+
 
 header {
     padding: 20px 20%;
@@ -80,9 +78,7 @@ header nav li {
     margin-left: 320px;
 }
 
-/* END OF CONTENT BLOCK */
-/* ------------------------- */
-/* FOOTER BLOCK */
+
 
 footer {
     padding: 20px 20%;
@@ -91,4 +87,4 @@ footer {
     text-align: right;
 }
 
-/* END OF FOOTER BLOCK */
+
